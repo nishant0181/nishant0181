@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **technishant01@gmail.com**
 
-- ⚡ Fun fact **I'm next Mark Zuckerburg!**
-
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nishant_Dhanani)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nishant_Dhanani)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nishant_Dhanani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30064810)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:technishant01@gmail.com) 
